@@ -11,7 +11,7 @@ My name is Sri Surya Yerramsetty. I am in the final year of my undergraduate stu
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="="https://www.linkedin.com/in/sri-surya-yerramsetty-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srisurya" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sri_surya_yerramsetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srisurya" height="30" width="40" /></a>
+<a href="="https://www.linkedin.com/in/sri-surya-yerramsetty-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srisurya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sri_surya_yerramsetty/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srisurya" height="30" width="40" /></a>
 </p>
 
