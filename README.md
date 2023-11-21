@@ -1,5 +1,5 @@
-### Hi! I'm Sri Surya Yerramsetty 👋
-
+### Hi! There 👋
+My name is Sri Surya Yerramsetty, hailing from India. I am in the final year of my undergraduate studies, pursuing a degree in Computer Science and Engineering. I possess a fervent enthusiasm for acquiring knowledge in emerging technologies and am actively seeking employment opportunities in my field.
 ***
 
 🌍  I am a Full-Stack Developer based in Andhra Pradesh, India.
