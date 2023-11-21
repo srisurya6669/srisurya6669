@@ -6,7 +6,7 @@
 <br/>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,python,c++&perline=5)]()
 ### Socials
 
 <div id="badges">
