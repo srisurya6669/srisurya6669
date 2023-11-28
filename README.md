@@ -4,6 +4,9 @@ My name is Sri Surya Yerramsetty. I am in the final year of my undergraduate stu
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs&theme=light)]()
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srisurya6669)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srisurya6669)](https://git.io/streak-stats)
