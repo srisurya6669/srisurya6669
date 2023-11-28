@@ -6,7 +6,7 @@ My name is Sri Surya Yerramsetty. I am in the final year of my undergraduate stu
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srisurya6669&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srisurya6669)](https://git.io/streak-stats)
 
 
 <h3 align="left">Connect with me:</h3>
