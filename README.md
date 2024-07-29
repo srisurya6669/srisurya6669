@@ -6,10 +6,6 @@ My name is Sri Surya Yerramsetty. I am in the final year of my undergraduate stu
 
 
 
-### :fire: My Stats :
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srisurya6669)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <h3 align="left">Connect with me:</h3>
