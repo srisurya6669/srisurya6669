@@ -1,5 +1,5 @@
 ### Hi! There 👋
-My name is Sri Surya Yerramsetty. I am currently working as a software engineer.
+I am Sri Surya Yerramsetty, a Software Engineer at Accenture, specializing in full-stack development with expertise in React.js, Node.js, and API development. I have a strong foundation in JavaScript, HTML, CSS, enabling me to build scalable and efficient web applications. With proficiency in version control tools like Git, I thrive in agile environments, delivering high-quality and well-optimized solutions. My problem-solving skills, attention to detail, and commitment to continuous learning drive me to contribute effectively to innovative projects and business success.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react,nodejs&theme=light)]()
