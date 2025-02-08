@@ -2,7 +2,7 @@
 My name is Sri Surya Yerramsetty. I am currently working as a software engineer.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react,nodejs&theme=light)]()
 
 
 
